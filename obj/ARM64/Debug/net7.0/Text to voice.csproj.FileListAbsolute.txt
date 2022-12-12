@@ -1,0 +1,86 @@
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\Text to voice.exe
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\Text to voice.deps.json
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\Text to voice.runtimeconfig.json
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\Text to voice.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\Text to voice.pdb
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\centos7-x64\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\osx-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\osx-arm64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\mcerverar\Desktop\Text to voice\bin\ARM64\Debug\net7.0\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.csproj.AssemblyReference.cache
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.AssemblyInfoInputs.cache
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.AssemblyInfo.cs
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.csproj.CoreCompileInputs.cache
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.csproj.CopyComplete
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.dll
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\refint\Text to voice.dll
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.pdb
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\Text to voice.genruntimeconfig.cache
+C:\Users\mcerverar\Desktop\Text to voice\obj\ARM64\Debug\net7.0\ref\Text to voice.dll

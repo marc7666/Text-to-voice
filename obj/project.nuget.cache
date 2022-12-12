@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+x27VeO6ZmZNxMm4V51OGec03n2FodW5bJU9E8Uze5sKvuMq/NKEznmdPcqmJEOXawpC1eNbk5yTKxL3ylo9AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcerverar\\Desktop\\Text to voice\\Text to voice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcerverar\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.2\\microsoft.cognitiveservices.speech.1.24.2.nupkg.sha512"
+  ],
+  "logs": []
+}
